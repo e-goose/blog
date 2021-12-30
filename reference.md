@@ -1,4 +1,10 @@
 # Reference for markdown files
+## Reference
+Creating an image as a link– [<img src="https://duckduckgo.com/assets/icons/story.svg">](http://github.com/)  
+\n after paragraph text– two or more spaces after text  
+Creating back link– [← Back to homepage](/blog)  
+[Syntax reference](https://daringfireball.net/projects/markdown/syntax)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/e-goose/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
