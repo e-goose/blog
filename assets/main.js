@@ -1,5 +1,3 @@
-// links.js: set all links to external sites target=blank– so they open in new tab
-
 // add jquery
 var script = document.createElement('script');
 script.src = 'https://code.jquery.com/jquery-3.4.1.min.js';
