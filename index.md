@@ -1,2 +1,2 @@
 # Math stuff
-[calculus intro page](/calc.md)
+[calculus intro page](/posts/calc)
