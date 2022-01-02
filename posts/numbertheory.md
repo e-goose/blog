@@ -3,4 +3,5 @@
 very patterns
 ### group theory stuff 
 
-[Brilliant's number theory course](/posts/numbertheory/0)
+Brilliant's number theory course  
+- [intro](/posts/numbertheory/intro)
