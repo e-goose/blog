@@ -1,3 +1,4 @@
+[← Back to number theory page](/blog/posts/numbertheory)
 # Brilliant's Number Theory Course Notes: Introduction
 
 ## Modular Arithmetic
